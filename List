@@ -1,0 +1,9 @@
+favorite_movies = ["Spider-man","Interstellar","Smile"]
+favorite_movies.append("terrifier")
+favorite_movies[1] = "Power Rangers"
+print(favorite_movies)
+
+chars = input("Write a short sentence: ")
+print(chars[0:6])
+print(chars[-6:])
+      
